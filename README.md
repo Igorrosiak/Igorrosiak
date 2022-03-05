@@ -25,4 +25,4 @@ Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
 </div>
   </div>
 
-      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/Igorrosiak/Igorrosiak/blob/output/github-contribution-grid-snake.svg)
