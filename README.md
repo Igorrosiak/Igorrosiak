@@ -3,10 +3,10 @@
 <div align="center">
 Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/Igorrosiak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrosiak&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrosiak&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,7 +23,6 @@ Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
   <a href="mailto:igorluizbelterrosiak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/Q744udeN" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-  
 </div>
 
  
