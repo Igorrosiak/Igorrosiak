@@ -2,7 +2,7 @@
 Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
   <br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Igorrosiak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrosiak&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=radical"/>
