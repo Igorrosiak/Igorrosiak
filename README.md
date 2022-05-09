@@ -1,6 +1,8 @@
 <div align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-## Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
+Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
+  
+  ##
   
 <div align="center" width="100%">
   <a href="https://github.com/Igorrosiak">
