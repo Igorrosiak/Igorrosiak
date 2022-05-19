@@ -1,6 +1,10 @@
 <div align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
+Olá :) <br> 
+Fico feliz pela visita! <br>
+Me chamo Igor Rosiak, sou estudante de programação e tecnologia. <br>
+Realizo curso técnico em análise e desenvolvimento de sistemas no SESI SENAI. <br>
+Meus estudos atualmente se baseiam nas linguagens: Java, HTML, CSS, Javascript e SQL.
   
   ##
   
@@ -11,10 +15,10 @@ Oiii eu sou Igor Rosiak, estudante de programação e tecnologia!
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Igor-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
