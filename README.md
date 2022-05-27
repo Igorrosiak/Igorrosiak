@@ -7,7 +7,7 @@ Realizo curso técnico em análise e desenvolvimento de sistemas no SENAI. <br>
   ##
   
 <div align="center" width="100%">
-  <a href="https://github.com/Igorrosiak">
+  <a href="#">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Igorrosiak&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=radical"/>
 </div>
