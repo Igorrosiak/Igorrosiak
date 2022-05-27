@@ -1,11 +1,9 @@
 <div align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-Olá :) <br> 
-Fico feliz pela visita! <br>
-Me chamo Igor Rosiak, sou estudante de programação e tecnologia. <br>
-Realizo curso técnico em análise e desenvolvimento de sistemas no SESI SENAI. <br>
-Meus estudos atualmente se baseiam nas linguagens: Java, HTML, CSS, Javascript e SQL.
-  
+Olá, Fico feliz pela visita! <br> 
+Me chamo Igor Luiz Belter Rosiak e tenho 16 anos. <br>
+Realizo curso técnico em análise e desenvolvimento de sistemas no SENAI. <br>
+ 
   ##
   
 <div align="center" width="100%">
