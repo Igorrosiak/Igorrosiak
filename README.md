@@ -1,7 +1,7 @@
 <div align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 Olá, Fico feliz pela visita! <br> 
-Me chamo Igor Luiz Belter Rosiak e tenho 16 anos. <br>
+Me chamo Igor Luiz Belter Rosiak e tenho 17 anos. <br>
 Realizo curso técnico em análise e desenvolvimento de sistemas no SENAI. <br>
  
   ##
