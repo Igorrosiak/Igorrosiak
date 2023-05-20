@@ -9,19 +9,23 @@
 
   ## Skills
   <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Igor-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Igor-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Igor-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Igor-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Igor-POSTGRES" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Igor-REACT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="Igor-SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Igor-BOOTSTRAP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Igor-BITBUCKET" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-    <img align="center" alt="Igor-DOCKER" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Igor-FIGMA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img align="center" alt="Igor-SLACK" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
-    <img align="center" alt="Igor-TRELLO" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+    <img align="center" alt="JS-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="TS-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+     <img align="center" alt="Node-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+     <img align="center" alt="React-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+     <img align="center" alt="Java-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="center" alt="Spring-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+     <img align="center" alt="Postgres-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+     <img align="center" alt="MongoDB-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+     <img align="center" alt="Docker-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
+     <img align="center" alt="Firebase-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" alt="Jenkins-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+    <img align="center" alt="Linux-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="HTML-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="SCSS-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Bootstrap-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Bitbucket-Icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
   </div>
  </a>
 
