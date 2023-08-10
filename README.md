@@ -8,7 +8,7 @@
 <div align="center" style="display: inline_block"><br>
    <p align="center">
       <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,styledcomponents,bootstrap,sass,css,regex,jquery,html,nodejs,express,nestjs,java,spring,mongodb,postgres,mysql,docker,aws,gcp,firebase,jenkins,netlify,git,github,postman,powershell,vite,stackoverflow,figma,svg,visualstudio,vscode&perline=13" />
+         <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,styledcomponents,bootstrap,sass,css,regex,jquery,html,nodejs,express,nestjs,java,spring,mongodb,postgres,mysql,docker,aws,gcp,firebase,jenkins,netlify,git,github,postman,powershell,vite,stackoverflow,figma,svg,visualstudio,vscode,webpack,gulp&perline=13" />
       </a>
    </p>
 </div>
