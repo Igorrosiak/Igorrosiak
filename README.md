@@ -1,13 +1,13 @@
 ## My GitHub
-<div align="center" width="100%">
-   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Igorrosiak&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Igorrosiak&theme=black-ice&hide_border=true)](https://git.io/streak-stats" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrosiak&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Skills
 <div align="center" style="display: inline_block"><br>
    <p align="center">
-      <a href="https://skillicons.dev" target="_blank">
+      <a href="#">
          <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,styledcomponents,bootstrap,sass,css,regex,jquery,html,nodejs,express,nestjs,java,spring,mongodb,postgres,mysql,docker,aws,gcp,firebase,jenkins,netlify,git,github,postman,powershell,vite,stackoverflow,figma,svg,visualstudio,vscode,webpack,gulp&perline=13" />
       </a>
    </p>
